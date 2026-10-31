@@ -17,6 +17,10 @@ A modern, searchable documentation site for Nuvio. The site is community-maintai
 - [Troubleshooting](docs/troubleshooting.md)
 - [FAQ](docs/faq.md)
 
+## Community research
+
+- [Reddit: free Nuvio setup and comment analysis (2026-10-31)](research/2026-10-31-reddit-free-nuvio-setup.md) — sourced inventory, community reports, caveats and verification backlog; **not a tested setup**.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for writing and contribution guidance.
